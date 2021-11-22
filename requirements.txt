@@ -1,0 +1,88 @@
+absl-py==1.0.0
+aiodns==3.0.0
+aiohttp==3.7.4.post0
+aiohttp-socks==0.6.0
+astunparse==1.6.3
+async-timeout==3.0.1
+backcall==0.2.0
+cachetools==4.2.4
+cchardet==2.1.7
+certifi==2020.6.20
+charset-normalizer==2.0.7
+click==8.0.3
+colorama @ file:///tmp/build/80754af9/colorama_1603211150991/work
+cycler==0.11.0
+dataclasses==0.6
+decorator==4.4.2
+elasticsearch==7.13.1
+fake-useragent==0.1.11
+Flask==2.0.2
+fonttools==4.28.1
+gast==0.3.3
+geographiclib==1.52
+geopy==2.1.0
+google-auth==2.3.3
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+googletransx==2.4.2
+grpcio==1.41.1
+h5py==2.10.0
+idna==3.3
+importlib-metadata==4.8.2
+ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1598865816163/work
+ipython-genutils==0.2.0
+itsdangerous==2.0.1
+jedi @ file:///C:/ci/jedi_1611315808330/work
+Jinja2==3.0.3
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1601311786391/work
+jupyter-core==4.6.3
+keras==2.7.0
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.2
+Markdown==3.3.5
+MarkupSafe==2.0.1
+matplotlib==3.5.0
+multidict==5.1.0
+numpy==1.18.5
+oauthlib==3.1.1
+olefile==0.46
+opt-einsum==3.3.0
+packaging==21.2
+parso @ file:///tmp/build/80754af9/parso_1596826841367/work
+pickleshare==0.7.5
+Pillow==8.4.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.19.1
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycares==4.0.0
+Pygments @ file:///tmp/build/80754af9/pygments_1600458456400/work
+pyparsing==2.4.7
+python-dateutil==2.8.1
+python-socks==1.2.4
+pywin32==227
+pyzmq==19.0.2
+requests==2.26.0
+requests-oauthlib==1.3.0
+rsa==4.7.2
+schedule==1.1.0
+scipy==1.4.1
+setuptools-scm==6.3.2
+six==1.16.0
+tensorboard==2.7.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow-gpu==2.3.0
+tensorflow-gpu-estimator==2.3.0
+termcolor==1.1.0
+tomli==1.2.2
+tornado==6.0.4
+traitlets @ file:///tmp/build/80754af9/traitlets_1602787416690/work
+urllib3==1.26.7
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+Werkzeug==2.0.2
+wincertstore==0.2
+wrapt==1.13.3
+yarl==1.6.3
+zipp==3.6.0
